@@ -1,4 +1,4 @@
-namespace LogicGatesStart;
+namespace Library;
 
 public interface IValorVerdad
 {

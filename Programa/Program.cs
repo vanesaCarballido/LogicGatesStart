@@ -1,6 +1,5 @@
-﻿
-using Library;
-using System;
+﻿using Library;
+using Sys
 public class Program
 {
     public static void Main()
@@ -10,4 +9,3 @@ public class Program
         Console.WriteLine(and1);
     }
 }
-
